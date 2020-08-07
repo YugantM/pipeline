@@ -1,0 +1,9 @@
+/usr/lib/libconsole_bridge.so.1.0
+/usr/lib/libconsole_bridge.so
+/usr/include/console_bridge/console.h
+/usr/include/console_bridge_export.h
+/usr/lib/console_bridge/cmake/console_bridge-targets.cmake
+/usr/lib/console_bridge/cmake/console_bridge-targets-release.cmake
+/usr/lib/console_bridge/cmake/console_bridge-config.cmake
+/usr/lib/console_bridge/cmake/console_bridge-config-version.cmake
+/usr/lib/pkgconfig/console_bridge.pc
