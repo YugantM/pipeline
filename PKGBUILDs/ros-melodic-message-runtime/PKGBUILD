@@ -1,0 +1,3 @@
+# PKGBUILD for ros-melodic-message-runtime
+pkgname= ros-melodic-message-runtime
+pkgver= 1.0.1

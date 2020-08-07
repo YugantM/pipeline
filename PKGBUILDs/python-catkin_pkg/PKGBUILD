@@ -1,0 +1,3 @@
+# PKGBUILD for python-catkin_pkg
+pkgname= python-catkin_pkg
+pkgver= 1.0.1

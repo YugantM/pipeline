@@ -1,0 +1,3 @@
+# PKGBUILD for ros-build-tools-py3
+pkgname= ros-build-tools-py3
+pkgver= 1.0.1

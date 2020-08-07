@@ -1,0 +1,3 @@
+# PKGBUILD for ros-melodic-catkin
+pkgname= ros-melodic-catkin
+pkgver= 1.0.1

@@ -1,0 +1,3 @@
+# PKGBUILD for ros-melodic-cpp-common
+pkgname= ros-melodic-cpp-common
+pkgver= 1.0.1

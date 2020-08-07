@@ -1,0 +1,3 @@
+# PKGBUILD for console_bridge
+pkgname= console_bridge
+pkgver= 1.0.1
